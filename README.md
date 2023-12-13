@@ -4,4 +4,4 @@
 <h1> Prodi : Sistem informasi </h1>
 
 
-*praktikum 1: tugas 1`pengenalan variabel`
+* praktikum 1: tugas 1`pengenalan variabel`
